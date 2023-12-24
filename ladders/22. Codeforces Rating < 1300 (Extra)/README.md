@@ -33,11 +33,11 @@
 |<ul><li>- [ ] Done</li></ul>|26|[Playing with Dice](http://codeforces.com/problemset/problem/378/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|27|[Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|28|[Games](http://codeforces.com/problemset/problem/268/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|29|[Bear and Finding Criminals](http://codeforces.com/problemset/problem/680/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|29|[Bear and Finding Criminals](http://codeforces.com/problemset/problem/680/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|30|[Nicholas and Permutation](http://codeforces.com/problemset/problem/676/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|31|[Uncowed Forces](http://codeforces.com/problemset/problem/604/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|32|[Choosing Laptop](http://codeforces.com/problemset/problem/106/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|33|[Ternary Logic](http://codeforces.com/problemset/problem/136/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|33|[Ternary Logic](http://codeforces.com/problemset/problem/136/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|34|[Lever](http://codeforces.com/problemset/problem/376/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|35|[Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|36|[A and B and Chess](http://codeforces.com/problemset/problem/519/A)|Codeforces|2|
