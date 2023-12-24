@@ -50,7 +50,7 @@
 |<ul><li>- [ ] Done</li></ul>|43|[Sinking Ship](http://codeforces.com/problemset/problem/63/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|44|[Initial Bet](http://codeforces.com/problemset/problem/478/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|45|[Tavas and Nafas](http://codeforces.com/problemset/problem/535/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|46|[Calculating Function](http://codeforces.com/problemset/problem/486/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|46|[Calculating Function](http://codeforces.com/problemset/problem/486/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|47|[Exams](http://codeforces.com/problemset/problem/194/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|48|[Postcards and photos](http://codeforces.com/problemset/problem/137/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|49|[Multiplication Table](http://codeforces.com/problemset/problem/577/A)|Codeforces|2|
