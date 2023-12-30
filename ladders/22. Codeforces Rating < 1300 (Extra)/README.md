@@ -59,7 +59,7 @@
 |<ul><li>- [ ] Done</li></ul>|52|[Currency System in Geraldion](http://codeforces.com/problemset/problem/560/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|53|[Game Outcome](http://codeforces.com/problemset/problem/157/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|54|[Group of Students](http://codeforces.com/problemset/problem/357/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|55|[Interview](http://codeforces.com/problemset/problem/631/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|55|[Interview](http://codeforces.com/problemset/problem/631/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|56|[Petya and Countryside](http://codeforces.com/problemset/problem/66/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|57|[Case of the Zeros and Ones](http://codeforces.com/problemset/problem/556/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|58|[Worms Evolution](http://codeforces.com/problemset/problem/31/A)|Codeforces|2|
