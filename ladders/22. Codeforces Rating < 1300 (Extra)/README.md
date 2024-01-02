@@ -77,7 +77,7 @@
 |<ul><li>- [ ] Done</li></ul>|70|[Pasha and Stick](http://codeforces.com/problemset/problem/610/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|71|[Queue on Bus Stop](http://codeforces.com/problemset/problem/435/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|72|[Lucky String](http://codeforces.com/problemset/problem/110/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|73|[Amr and Music](http://codeforces.com/problemset/problem/507/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|73|[Amr and Music](http://codeforces.com/problemset/problem/507/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|74|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|75|[Prison Transfer](http://codeforces.com/problemset/problem/427/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|76|[Bear and Raspberry](http://codeforces.com/problemset/problem/385/A)|Codeforces|2|
