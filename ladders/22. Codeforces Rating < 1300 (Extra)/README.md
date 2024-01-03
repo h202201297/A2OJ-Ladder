@@ -85,7 +85,7 @@
 |<ul><li>- [ ] Done</li></ul>|78|[Vasya and Digital Root](http://codeforces.com/problemset/problem/355/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|79|[Little Elephant and Magic Square](http://codeforces.com/problemset/problem/259/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|80|[Valera and X](http://codeforces.com/problemset/problem/404/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|81|[Game With Sticks](http://codeforces.com/problemset/problem/451/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|81|[Game With Sticks](http://codeforces.com/problemset/problem/451/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|82|[Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|83|[Roadside Trees (Simplified Edition)](http://codeforces.com/problemset/problem/265/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|84|[Valera and Antique Items](http://codeforces.com/problemset/problem/441/A)|Codeforces|2|
