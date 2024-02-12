@@ -123,7 +123,7 @@
 |<ul><li>- [ ] Done</li></ul>|116|[Bear and Poker](http://codeforces.com/problemset/problem/573/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|117|[Ksenia and Pan Scales](http://codeforces.com/problemset/problem/382/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|118|[Phone Numbers](http://codeforces.com/problemset/problem/151/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|119|[Inventory](http://codeforces.com/problemset/problem/569/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|119|[Inventory](http://codeforces.com/problemset/problem/569/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|120|[Vitaliy and Pie](http://codeforces.com/problemset/problem/525/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|121|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|122|[Wilbur and Array](http://codeforces.com/problemset/problem/596/B)|Codeforces|3|
