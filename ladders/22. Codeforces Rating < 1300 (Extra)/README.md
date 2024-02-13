@@ -140,7 +140,7 @@
 |<ul><li>- [ ] Done</li></ul>|133|[Lucky Conversion](http://codeforces.com/problemset/problem/145/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|134|[Two Bases](http://codeforces.com/problemset/problem/602/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|135|[The Monster and the Squirrel](http://codeforces.com/problemset/problem/592/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|136|[The Child and Homework](http://codeforces.com/problemset/problem/437/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|136|[The Child and Homework](http://codeforces.com/problemset/problem/437/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|137|[Tavas and SaDDas](http://codeforces.com/problemset/problem/535/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|138|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|139|[Valuable Resources](http://codeforces.com/problemset/problem/485/B)|Codeforces|3|
