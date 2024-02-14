@@ -143,7 +143,7 @@
 |<ul><li>- [X] Done</li></ul>|136|[The Child and Homework](http://codeforces.com/problemset/problem/437/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|137|[Tavas and SaDDas](http://codeforces.com/problemset/problem/535/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|138|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|139|[Valuable Resources](http://codeforces.com/problemset/problem/485/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|139|[Valuable Resources](http://codeforces.com/problemset/problem/485/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|140|[Fox and Number Game](http://codeforces.com/problemset/problem/389/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|141|[Unary](http://codeforces.com/problemset/problem/133/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|142|[Equidistant String](http://codeforces.com/problemset/problem/545/B)|Codeforces|3|
